@@ -1,5 +1,3 @@
 add bio here.
 add bio here2.
 favorite movie: LOTR
-
-revert practice text addition
